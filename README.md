@@ -7,11 +7,11 @@ I'm interested in HTML, CSS, JavaScript, React
 ![Starcradle101's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=starcradle101&show_icons=true&theme=transparent)
 ![Starcradle101's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=starcradle101&show_icons=true&theme=transparent)
 
-## Blog
+## 📚 Blog 📚
 
-## Contact
+## 📱 Contact 📱
 
-## Once I've Used
+## ⚙️ Once I've Used ⚙️
 <a href="#none"><img
     src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
 <a href="#none"><img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
