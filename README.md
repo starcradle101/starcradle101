@@ -4,8 +4,8 @@
 I'm Studying in LIKE LION FE5 Now.
 I'm interested in HTML, CSS, JavaScript, React
 
-![Starcradle101's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=starcradle101&show_icons=true&theme=transparent)
-![Starcradle101's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=starcradle101&show_icons=true&theme=transparent)
+![Starcradle101's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=starcradle101&show_icons=true&theme=react)
+![Starcradle101's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=starcradle101&show_icons=true&theme=react)
 
 ## 📚 Blog 📚
 
