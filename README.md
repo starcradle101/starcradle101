@@ -32,5 +32,3 @@ I'm interested in HTML, CSS, JavaScript, React
   <a href="#none"><img
       src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></a>
 </div>
-
-내용 수정했습니다.
