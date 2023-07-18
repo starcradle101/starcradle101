@@ -1,8 +1,7 @@
 # 🙋🏻‍♂️ Hello There! 👨🏻‍💻
 
 
-I'm Studying in LIKE LION FE5 Now.
-I'm interested in HTML, CSS, JavaScript, React
+Frontend Developer who's always awake.
 
 ![Starcradle101's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=starcradle101&show_icons=true&theme=default)
 ![Starcradle101's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=starcradle101&show_icons=true&theme=default)
