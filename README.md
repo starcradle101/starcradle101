@@ -4,6 +4,7 @@
 I'm Hoon, Frontend Developer who's always awake.
 <참여 활동>
 - likelion FE5
+- Sowith
 
 ![Starcradle101's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=starcradle101&show_icons=true&theme=default)
 ![Starcradle101's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=starcradle101&show_icons=true&theme=default)
