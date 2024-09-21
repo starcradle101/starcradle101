@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:9D50BB,100:6E48AA&height=300&section=header&text=Welcome,%20Traveler&fontSize=70&fontColor=000000&stroke=BC13FE&strokeWidth=1&theme=aura" />  
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1D976C,100:93F9B9&height=300&section=header&text=Welcome,%20Traveler&fontSize=70&fontColor=000000&stroke=3FCF8E&strokeWidth=1" />  
 </div>
 
 <h3 align='center'>⚡️ Tech Stack</h3>
@@ -34,11 +34,11 @@
 <div align='center'>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=starcradle101&show_icons=true&theme=aura&card_width=500px"
+    srcset="https://github-readme-stats.vercel.app/api?username=starcradle101&show_icons=true&theme=gotham&card_width=500px"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=starcradle101&show_icons=true&theme=buefy&card_width=500px"
+    srcset="https://github-readme-stats.vercel.app/api?username=starcradle101&show_icons=true&theme=vue&card_width=500px"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=starcradle101&show_icons=true" />
@@ -47,11 +47,11 @@
 <div align='center'>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=starcradle101&show_icons=true&theme=aura&card_width=500px"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=starcradle101&show_icons=true&theme=gotham&card_width=500px"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=starcradle101&show_icons=true&theme=buefy&card_width=500px"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=starcradle101&show_icons=true&theme=vue&card_width=500px"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=starcradle101&show_icons=true" />
